@@ -1,0 +1,6 @@
+flask
+langchain>=0.1.0
+groq
+python-dotenv
+langchain_community
+langchain-groq 
